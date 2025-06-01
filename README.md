@@ -29,3 +29,7 @@ await boost.ledAsync('green');
 
 controlled via Bluetooth from the phone
 https://youtube.com/shorts/M3TDImQZDzc
+
+There are other projects like line tracing, which was done with separate robots and modules, using 1 and 2 light sensors.
+
+
