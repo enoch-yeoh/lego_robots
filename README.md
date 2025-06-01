@@ -37,6 +37,9 @@ There is another resource that I have signed up for.
 If you see the attached pictures, I cannot register because I am below 13, so my father has to create the account for me.
 https://www.cs2n.org/
 
+Other resources:
+https://libguides.singaporetech.edu.sg/robot/yanshee/start
+
 
 
 
