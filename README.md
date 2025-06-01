@@ -32,7 +32,11 @@ https://youtube.com/shorts/M3TDImQZDzc
 https://drive.google.com/file/d/1XgG13JCM_bEQaBdA9YXsngN4yriD0llt/view?usp=drive_link
 
 There are other projects like line tracing, which was done with separate robots and modules, using 1 and 2 light sensors.
-I have attached the video files as VID-20250601-WA0027.mp4 and VID-20250601-WA0028.mp4.
+I have attached the video files as VID-20250601-WA0027.mp4 and VID-20250601-WA0028.mp4 or you can use these 2 links:
+
+https://drive.google.com/file/d/19X4QKYgngnW47hsDujJvGOv-v0NVayPR/view?usp=drive_link
+
+https://drive.google.com/file/d/1kSvY-cGY1gFnrjvtZImsEdgnyHsbxanr/view?usp=drive_link
 
 There is another resource that I have signed up for. 
 If you see the attached pictures, I cannot register because I am below 13, so my father has to create the account for me.
