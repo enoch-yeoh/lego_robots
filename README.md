@@ -31,5 +31,12 @@ controlled via Bluetooth from the phone
 https://youtube.com/shorts/M3TDImQZDzc
 
 There are other projects like line tracing, which was done with separate robots and modules, using 1 and 2 light sensors.
+I have attached the video files as VID-20250601-WA0027.mp4 and VID-20250601-WA0028.mp4.
+
+There is another resource that I have signed up for. 
+If you see the attached pictures, I cannot register because I am below 13, so my father has to create the account for me.
+https://www.cs2n.org/
+
+
 
 
